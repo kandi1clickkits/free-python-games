@@ -11,7 +11,7 @@ REM update below path if required
 SET PY_LOCATION="C:\Python"
 SET PY_VERSION=3.9.8
 SET PY_DOWNLOAD_URL=https://www.python.org/ftp/python/3.9.8/python-3.9.8-amd64.exe
-SET REPO_DOWNLOAD_URL=https://github.com/kandi1clickkits/free-python-games/releases/download/v2.5.0/free-python-games.zip
+SET REPO_DOWNLOAD_URL=https://github.com/kandi1clickkits/free-python-games/releases/download/v1.0.0/free-python-games.zip
 SET REPO_DEPENDENCIES_URL=https://github.com/kandi1clickkits/free-python-games/raw/main/requirements.txt
 SET REPO_NAME=Python_Startup_Games.zip
 SET EXTRACTED_REPO_DIR=free-python-games
