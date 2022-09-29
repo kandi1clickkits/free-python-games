@@ -1,0 +1,16 @@
+-e .
+blue
+coverage
+doc8
+flake8
+isort
+pylint
+pytest
+pytest-cov
+rstcheck
+sphinx
+tox
+twine
+wheel
+freegames==2.4.0
+jupyter==1.0.0
